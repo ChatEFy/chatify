@@ -24,5 +24,5 @@ It is a full-fledged Firebase Chat Application, with social authentication inclu
 ![{1C2FFE4C-A28F-41AF-A652-3F9D1522BB7E}](https://user-images.githubusercontent.com/73103642/128329941-6f5fc38a-7642-466b-90ac-6f2e771cc948.png)
 
 # Chat Application Preview
-![{DB78A554-3925-4C44-93F0-5ACD6A590E0C}](https://user-images.githubusercontent.com/73103642/128330071-592b8496-476f-4a02-b09c-f5a253511646.png)
+![{DB78A554-3925-4C44-93F0-5ACD6A590E0C}](Image/Inked128330071-592b8496-476f-4a02-b09c-f5a253511646_LI.jpg)
 
